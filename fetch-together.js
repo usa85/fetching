@@ -5,7 +5,7 @@
 //number of users
 
 //var uri = require('./users.JSON');
-const uri = 'http://jsonplaceholder.typicode.com/users';
+const uri = 'https://usa85.github.io/fetching/users';
 //const uri = 'http://localhost:3000/users';
 //const uri = require('.user.json');
 
